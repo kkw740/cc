@@ -21,7 +21,7 @@ Assignment 7:Design and develop custom Application (Mini Project) using Salesfor
 Assignment 8:Design an Assignment to retrieve, verify, and store user credentials using Firebase Authentication, the Google App Engine standard environment, and Google Cloud Data store. 
 ->https://www.youtube.com/watch?v=--qUoDXqPos
 ->https://www.youtube.com/watch?v=2crtIMKf9bs
-
+---------------------------------------------------------------
 2nd and 6th:
 1.new project
 2.billing check
@@ -34,6 +34,7 @@ Assignment 8:Design an Assignment to retrieve, verify, and store user credential
 4]gcloud app deploy
 5]gcloud app browse
 6]rm -r name .....to delete the file or folder\n
+
 ----------------------
 GCP Deployment Steps:
 Create a new project
