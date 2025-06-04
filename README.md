@@ -23,19 +23,19 @@ Assignment 8:Design an Assignment to retrieve, verify, and store user credential
 ->https://www.youtube.com/watch?v=2crtIMKf9bs
 
 2nd and 6th:
-new project
-billing check
-app engine create project
-iam>service accn>manage permission>jason file
-cmd:
-ls
-upload json,folder
-cd filename
-gcloud app deploy
-gcloud app browse
-rm -r name .....to delete the file or folder
+1.new project
+2.billing check
+3.app engine create project
+4.iam>service accn>manage permission>jason file
+5.cmd:
+1]ls
+2]upload json,folder
+3]cd filename
+4]gcloud app deploy
+5]gcloud app browse
+6]rm -r name .....to delete the file or folder\n
 
-commands for 4th
+commands for 4th/n
 vm1
 ifconfig
 ping ip of vm2
