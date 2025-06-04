@@ -34,7 +34,25 @@ Assignment 8:Design an Assignment to retrieve, verify, and store user credential
 4]gcloud app deploy
 5]gcloud app browse
 6]rm -r name .....to delete the file or folder\n
+----------------------
+GCP Deployment Steps:
+Create a new project
 
+Check billing
+
+Create App Engine project
+
+Go to IAM > Service Accounts > Manage Permissions > Download JSON file
+Terminal Commands:
+ls
+# Upload JSON and folder
+cd <your_project_folder>
+cd filename
+gcloud app deploy
+gcloud app browse
+rm -r <folder_name>   # To delete
+
+-----------------------------------------------------------
 commands for 4th/n
 **Commands**:
 
