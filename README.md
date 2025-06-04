@@ -32,7 +32,8 @@ ls
 upload json,folder
 cd filename
 gcloud app deploy
-
+gcloud app browse
+rm -r name .....to delete the file or folder
 
 commands for 4th
 vm1
