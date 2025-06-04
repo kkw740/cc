@@ -36,19 +36,22 @@ Assignment 8:Design an Assignment to retrieve, verify, and store user credential
 6]rm -r name .....to delete the file or folder\n
 
 commands for 4th/n
-vm1
+**Commands**:
+
+### VM1:
+```bash
 ifconfig
-ping ip of vm2
+ping <IP of VM2>
 ls
-touch file.txt....to create file
-nano file.txt
-ctrl+x,y &enter
-cat file.txt.....show data
+touch file.txt         # Create file
+nano file.txt          # Edit file
+# (Ctrl + X, then Y, then Enter to save)
+cat file.txt           # Display content
 scp file.txt vagrant@192.168.56.102:/home/vagrant
-vm2
-1st 2 same
+###vm2
+ifconfig
+ping <IP of VM1>
 ls
 ls / home
 ls / home / vagrant
 cat file.txt
-
